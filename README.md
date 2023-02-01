@@ -1,2 +1,2 @@
 # ricky-morty-db
-Ricky Morty DB
+Database with some data of the **Ricky Morty** TV show
